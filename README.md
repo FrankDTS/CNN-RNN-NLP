@@ -13,7 +13,7 @@
   1. Built function to remove all the words after ',' and '-' since most of they are food weight unit
   2. one-hot encoding for y (label)
   3. Combine food name and brand_name together, convert them to interger sequence
-  ![](/images/Days.png)
+  ![string to int](https://github.com/FrankDTS/CNN-RNN-NLP/blob/main/image/Screen%20Shot%202021-05-10%20at%209.43.39%20PM.png)
 
 # Fit and Predict models
   1. NLP with XGboost classifier
